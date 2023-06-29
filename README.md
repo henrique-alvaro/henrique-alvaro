@@ -1,7 +1,7 @@
-### Sou Henrique Álvaro 👋
+### Henrique Álvaro 👋
 
-- 🌱 Estudando Python, Django e Flask ...
-- 👯 Contate-me no email: henriquealvaro101@gmail.com ...
+- 🌱 Estudando Python, Django e Flask
+- 👯 Contate-me no email: henriquealvaro101@gmail.com
 
 <div>
   <a href="https://github.com/henrique-alvaro">
