@@ -1,6 +1,6 @@
 ### Henrique Álvaro 👋
 
-- 🌱 Estudando Python, Django e Flask
+- 🌱 Estudando Python, Django / JavaScript, Nodejs, React
 - 👯 Contate-me no email: henriquealvaro101@gmail.com
 
 <div>
